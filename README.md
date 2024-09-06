@@ -1,0 +1,1 @@
+Developed an elevator system in Promela, handling multiple floor requests with efficient queue management and direction logic. Utilized SPIN model checker to verify the system’s safety and liveness properties, ensuring reliable and error-free operation.
